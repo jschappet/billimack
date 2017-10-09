@@ -1,3 +1,6 @@
 rna/
 rna_all.rds
-
+.Rproj.user
+filename.map.csv
+gdc_manifest_*.txt
+metadata.cart.*.json
