@@ -4,3 +4,5 @@ rna_all.rds
 filename.map.csv
 gdc_manifest_*.txt
 metadata.cart.*.json
+.RData
+.Rhistory

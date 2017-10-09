@@ -24,7 +24,7 @@ if (!file.exists(destfile)) {
     saveRDS(df, file=destfile)
     
   }
-  
+  rm(newData)
 } else {
   df <- readRDS(destfile)
   
