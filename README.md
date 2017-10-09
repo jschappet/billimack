@@ -9,7 +9,7 @@ Processing TCGA RNA files....
 
 Clone GIT Repository
 
-   git clone git@github.com:jschappet/billimack.git
+    git clone git@github.com:jschappet/billimack.git
 
 
 Downloand Manifest and MetaData Files from GDC Portal
