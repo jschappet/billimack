@@ -9,11 +9,18 @@ Processing TCGA RNA files....
 
 Clone GIT Repository
 
-   git clone 
+   git clone git@github.com:jschappet/billimack.git
+
 
 Downloand Manifest and MetaData Files from GDC Portal
 
+''' Insert instructions here '''
 
+Run the Download Bin Script
+
+    ./download_rna_data.sh [ MANIFEST ] [ METADATA ] 
+
+Open the R Project 
 
 ## Dependancies
 
